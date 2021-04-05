@@ -1,0 +1,4 @@
+Decision Trees & RandomCutForest
+
+1. Apply both Decision Trees & Random Cut Forest on Lending Club loan_data (loan_data.csv)
+
